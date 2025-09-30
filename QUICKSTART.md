@@ -195,9 +195,8 @@ Make sure you provide: `firstName`, `lastName`, `email`, `title`, `brandColor`
 
 ## Need Help?
 
-- 🐛 [Report Issues](https://github.com/yourusername/apple-wallet-pass-generator/issues)
-- 💬 [Ask Questions](https://github.com/yourusername/apple-wallet-pass-generator/discussions)
-- 📧 Email: support@example.com
+- 🐛 [Report Issues](https://github.com/0xJovin/applewalletpass/issues)
+- 📖 [Documentation](https://github.com/0xJovin/applewalletpass)
 
 ---
 

@@ -344,9 +344,8 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-- 📧 Email: support@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/apple-wallet-pass-generator/issues)
-- 📖 Documentation: [GitHub Wiki](https://github.com/yourusername/apple-wallet-pass-generator/wiki)
+- 🐛 Issues: [GitHub Issues](https://github.com/0xJovin/applewalletpass/issues)
+- 📖 Documentation: [GitHub Repository](https://github.com/0xJovin/applewalletpass)
 
 ## Acknowledgments
 

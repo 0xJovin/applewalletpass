@@ -101,9 +101,9 @@ git push origin v1.0.0
 
 ### 8. Create a GitHub Release
 
-1. Go to your GitHub repository
-2. Click "Releases" → "Create a new release"
-3. Select the tag you just created
+1. Go to https://github.com/0xJovin/applewalletpass/releases/new
+2. Click "Choose a tag" → Create new tag: `v1.0.0`
+3. Set release title: `v1.0.0 - Initial Release`
 4. Add release notes from CHANGELOG.md
 5. Publish the release
 

@@ -336,4 +336,4 @@ Apple certificates expire after **1-2 years**. To renew:
 
 ---
 
-Need help? Open an issue on GitHub!
+Need help? Open an issue: https://github.com/0xJovin/applewalletpass/issues

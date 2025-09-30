@@ -7,8 +7,8 @@ Thank you for your interest in contributing! This document provides guidelines f
 1. **Fork the repository** on GitHub
 2. **Clone your fork** locally:
    ```bash
-   git clone https://github.com/yourusername/apple-wallet-pass-generator.git
-   cd apple-wallet-pass-generator
+   git clone https://github.com/0xJovin/applewalletpass.git
+   cd applewalletpass
    ```
 3. **Install dependencies**:
    ```bash
@@ -160,8 +160,7 @@ By contributing, you agree that your contributions will be licensed under the MI
 ## Questions?
 
 Feel free to:
-- Open an issue for questions
-- Start a discussion on GitHub Discussions
+- Open an issue for questions: https://github.com/0xJovin/applewalletpass/issues
 - Reach out to maintainers
 
 ## Code of Conduct

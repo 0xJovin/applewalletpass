@@ -27,16 +27,16 @@
     "apple",
     "ios"
   ],
-  "author": "Your Name",
+  "author": "0xJovin",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/apple-wallet-pass-generator.git"
+    "url": "https://github.com/0xJovin/applewalletpass.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/apple-wallet-pass-generator/issues"
+    "url": "https://github.com/0xJovin/applewalletpass/issues"
   },
-  "homepage": "https://github.com/yourusername/apple-wallet-pass-generator#readme",
+  "homepage": "https://github.com/0xJovin/applewalletpass#readme",
   "dependencies": {
     "node-forge": "^1.3.1"
   },

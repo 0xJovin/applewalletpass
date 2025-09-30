@@ -284,8 +284,7 @@ export default {
 
 - 📖 Read the [main README](../README.md)
 - 🔧 Check the [Setup Guide](../SETUP.md)
-- 🐛 Report issues on [GitHub](https://github.com/yourusername/apple-wallet-pass-generator/issues)
-- 💬 Ask questions in [Discussions](https://github.com/yourusername/apple-wallet-pass-generator/discussions)
+- 🐛 Report issues on [GitHub](https://github.com/0xJovin/applewalletpass/issues)
 
 ## Contributing
 
