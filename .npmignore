@@ -1,0 +1,56 @@
+# Source files (only ship compiled code)
+src/
+tsconfig.json
+
+# Development files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Tests
+*.test.ts
+*.spec.ts
+__tests__/
+coverage/
+
+# Documentation source
+docs/
+
+# Examples
+examples/
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Certificates
+*.p12
+*.cer
+*.pem
+*.key
+*.crt
+*.base64.txt
+
+# Temporary
+tmp/
+temp/
+*.tmp
