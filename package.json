@@ -31,7 +31,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0xJovin/applewalletpass.git"
+    "url": "git+https://github.com/0xJovin/applewalletpass.git"
   },
   "bugs": {
     "url": "https://github.com/0xJovin/applewalletpass/issues"

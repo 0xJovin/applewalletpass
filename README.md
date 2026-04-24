@@ -1,8 +1,9 @@
 # Apple Wallet Pass Generator
 
 [![npm version](https://img.shields.io/npm/v/apple-wallet-pass-generator.svg)](https://www.npmjs.com/package/apple-wallet-pass-generator)
+[![npm downloads](https://img.shields.io/npm/dt/apple-wallet-pass-generator.svg)](https://www.npmjs.com/package/apple-wallet-pass-generator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![npm downloads](https://img.shields.io/npm/dm/apple-wallet-pass-generator.svg)](https://www.npmjs.com/package/apple-wallet-pass-generator)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![GitHub stars](https://img.shields.io/github/stars/0xJovin/applewalletpass.svg)](https://github.com/0xJovin/applewalletpass/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/0xJovin/applewalletpass.svg)](https://github.com/0xJovin/applewalletpass/issues)
 
