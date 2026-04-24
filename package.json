@@ -1,6 +1,6 @@
 {
   "name": "apple-wallet-pass-generator",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A TypeScript library for generating Apple Wallet business card passes with vCard support",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
