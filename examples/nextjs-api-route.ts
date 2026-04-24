@@ -6,7 +6,7 @@
  */
 
 import { type NextRequest, NextResponse } from 'next/server'
-import { generateBusinessCardPass, BusinessCardData } from '../src/index'
+import { generateBusinessCardPass, BusinessCardData } from 'apple-wallet-pass-generator'
 
 // App Router example (app/api/wallet/route.ts)
 export async function POST(request: NextRequest) {
@@ -74,7 +74,7 @@ export async function POST(request: NextRequest) {
 // Pages Router example (pages/api/wallet.ts)
 /*
 import type { NextApiRequest, NextApiResponse } from 'next'
-import { generateBusinessCardPass } from '../src/index'
+import { generateBusinessCardPass } from 'apple-wallet-pass-generator'
 
 export default async function handler(
   req: NextApiRequest,

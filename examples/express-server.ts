@@ -6,7 +6,7 @@
  */
 
 import express, { Request, Response, Express } from 'express'
-import { generateBusinessCardPass } from '../src/index'
+import { generateBusinessCardPass } from 'apple-wallet-pass-generator'
 
 const app: Express = express()
 const PORT = process.env.PORT || 3000

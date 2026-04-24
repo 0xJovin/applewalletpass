@@ -4,7 +4,7 @@
  * This example shows how to generate a simple business card pass
  */
 
-import { generateBusinessCardPass } from '../src/index'
+import { generateBusinessCardPass } from 'apple-wallet-pass-generator'
 import { writeFileSync } from 'fs'
 
 async function main() {

@@ -8,7 +8,7 @@
  * - Different brand colors
  */
 
-import { generateBusinessCardPass } from '../src/index'
+import { generateBusinessCardPass } from 'apple-wallet-pass-generator'
 import { writeFileSync, readFileSync } from 'fs'
 import { join } from 'path'
 
