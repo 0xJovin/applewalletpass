@@ -15,6 +15,7 @@
 
 ## 📖 Table of Contents
 
+- [Motivation](#-motivation)
 - [Features](#-features)
 - [Installation](#-installation)
 - [Prerequisites](#-prerequisites)
@@ -23,6 +24,14 @@
 - [Environment Variables](#-environment-variables)
 - [Project Status](#-project-status)
 - [License](#-license)
+
+---
+
+## 💡 Motivation
+
+I built this library because I couldn't find a "plug and play" solution for generating Apple Wallet passes that just worked out of the box. 
+
+While building my digital business card product, [Cardova](https://getcardova.com), I had to spend a significant amount of time deep-diving into Apple's PassKit documentation, PKCS#7 signing, and manifest creation. Once I figured it out, I decided to package the logic into a clean, easy-to-use library so others wouldn't have to go through the same struggle. This is my first contribution to the open-source community!
 
 ---
 
