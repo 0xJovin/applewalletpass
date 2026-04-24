@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./apple_wallet_pass_banner_1776994770280.png" alt="Apple Wallet Pass Generator Banner" width="100%">
-  
   # Apple Wallet Pass Generator
 
   [![npm version](https://img.shields.io/npm/v/apple-wallet-pass-generator.svg)](https://www.npmjs.com/package/apple-wallet-pass-generator)
