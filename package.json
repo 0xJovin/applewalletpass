@@ -25,7 +25,9 @@
     "digital-card",
     "contact-card",
     "apple",
-    "ios"
+    "ios",
+    "typescript",
+    "pass-generator"
   ],
   "author": "0xJovin",
   "license": "MIT",
@@ -37,6 +39,9 @@
     "url": "https://github.com/0xJovin/applewalletpass/issues"
   },
   "homepage": "https://github.com/0xJovin/applewalletpass#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "node-forge": "^1.4.0"
   },
