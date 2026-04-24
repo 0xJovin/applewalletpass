@@ -353,7 +353,7 @@ function createSignature(manifestString: string, config: AppleWalletConfig): Buf
       },
       {
         type: forge.pki.oids.signingTime,
-        value: new Date(),
+        value: new Date() as any,
       },
     ],
   })
