@@ -1,0 +1,12 @@
+{
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "..",
+    "noEmit": true,
+    "baseUrl": "..",
+    "paths": {
+      "apple-wallet-pass-generator": ["./src/index.ts"]
+    }
+  },
+  "include": ["./**/*", "../src/**/*"]
+}

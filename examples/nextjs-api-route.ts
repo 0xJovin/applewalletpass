@@ -6,13 +6,13 @@
  */
 
 import { type NextRequest, NextResponse } from 'next/server'
-import { generateBusinessCardPass } from 'apple-wallet-pass-generator'
+import { generateBusinessCardPass, BusinessCardData } from '../src/index'
 
 // App Router example (app/api/wallet/route.ts)
 export async function POST(request: NextRequest) {
   try {
     // Parse the request body
-    const cardData = await request.json()
+    const cardData = await request.json() as BusinessCardData
 
     // Validate required fields
     if (!cardData.firstName || !cardData.lastName || !cardData.email || !cardData.title) {
@@ -74,7 +74,7 @@ export async function POST(request: NextRequest) {
 // Pages Router example (pages/api/wallet.ts)
 /*
 import type { NextApiRequest, NextApiResponse } from 'next'
-import { generateBusinessCardPass } from 'apple-wallet-pass-generator'
+import { generateBusinessCardPass } from '../src/index'
 
 export default async function handler(
   req: NextApiRequest,

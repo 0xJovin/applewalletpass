@@ -5,10 +5,10 @@
  * that generates Apple Wallet passes
  */
 
-import express, { Request, Response } from 'express'
-import { generateBusinessCardPass } from 'apple-wallet-pass-generator'
+import express, { Request, Response, Express } from 'express'
+import { generateBusinessCardPass } from '../src/index'
 
-const app = express()
+const app: Express = express()
 const PORT = process.env.PORT || 3000
 
 // Middleware
