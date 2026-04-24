@@ -1,5 +1,11 @@
 # Apple Wallet Pass Generator
 
+[![npm version](https://img.shields.io/npm/v/apple-wallet-pass-generator.svg)](https://www.npmjs.com/package/apple-wallet-pass-generator)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![npm downloads](https://img.shields.io/npm/dm/apple-wallet-pass-generator.svg)](https://www.npmjs.com/package/apple-wallet-pass-generator)
+[![GitHub stars](https://img.shields.io/github/stars/0xJovin/applewalletpass.svg)](https://github.com/0xJovin/applewalletpass/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/0xJovin/applewalletpass.svg)](https://github.com/0xJovin/applewalletpass/issues)
+
 A TypeScript library for generating Apple Wallet business card passes with vCard support. Create beautiful, professional digital business cards that can be added directly to Apple Wallet.
 
 ## Features
