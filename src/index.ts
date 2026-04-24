@@ -50,11 +50,9 @@ export interface BusinessCardData {
   /** QR code icon as base64 string (without data URL prefix) */
   qrCodeBase64?: string
   /** QR code mode: what the QR code should contain */
-  qrCodeMode?: "vcard" | "linkedin" | "custom" | "leavegen"
+  qrCodeMode?: "vcard" | "linkedin" | "custom"
   /** Custom link for QR code (when qrCodeMode is "custom") */
   customLink?: string
-  /** LeaveGen form ID (when qrCodeMode is "leavegen") */
-  leavegenFormId?: string
   /** @deprecated Use qrCodeMode instead */
   linkedinOnly?: boolean
 }
@@ -106,11 +104,6 @@ export async function generateBusinessCardPass(
       break
     case "custom":
       qrContent = cardData.customLink || ""
-      break
-    case "leavegen":
-      qrContent = cardData.leavegenFormId
-        ? `https://app.getcardova.com/leavegen/form/${cardData.leavegenFormId}`
-        : ""
       break
     case "vcard":
     default:

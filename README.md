@@ -40,7 +40,7 @@ While building my digital business card product, [Cardova](https://getcardova.co
 - ✅ **Type-Safe** - Built with TypeScript for full IntelliSense and type safety.
 - 📇 **vCard Support** - Automatically generate QR codes that allow users to save your contact info with one tap.
 - 🎨 **Dynamic Branding** - Custom colors, profile photos, and company logos with automatic contrast detection.
-- 🔗 **Versatile QR Modes** - Support for vCard, LinkedIn, custom URLs, and lead generation forms.
+- 🔗 **Versatile QR Modes** - Support for vCard, LinkedIn, and custom URLs.
 - 🔒 **Secure Signing** - Handles complex PKCS#7 signing and manifest creation out of the box.
 - 📱 **Native Experience** - Generates standard `.pkpass` files compatible with iOS Wallet.
 
@@ -151,7 +151,7 @@ export async function POST(req: NextRequest) {
 | `brandColor` | `string` | ✅ | Hex color (e.g., `#156741`) |
 | `company` | `string` | ❌ | Company name |
 | `profilePhoto` | `string` | ❌ | Base64 Data URL (recommended 150x150px) |
-| `qrCodeMode` | `string` | ❌ | `vcard`, `linkedin`, `custom`, or `leavegen` |
+| `qrCodeMode` | `string` | ❌ | `vcard`, `linkedin`, or `custom` |
 
 ---
 

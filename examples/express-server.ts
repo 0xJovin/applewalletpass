@@ -100,9 +100,9 @@ app.get('/api/wallet/example', (req: Request, res: Response) => {
     optionalFields: [
       'company', 'phone', 'website', 'linkedin', 
       'profilePhoto', 'companyLogo', 'qrCodeMode',
-      'customLink', 'leavegenFormId', 'customFields'
+      'customLink', 'customFields'
     ],
-    qrCodeModes: ['vcard', 'linkedin', 'custom', 'leavegen']
+    qrCodeModes: ['vcard', 'linkedin', 'custom']
   })
 })
 
