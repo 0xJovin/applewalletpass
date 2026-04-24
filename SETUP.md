@@ -325,8 +325,6 @@ Apple certificates expire after **1-2 years**. To renew:
 ## Next Steps
 
 - Read the [README.md](README.md) for usage examples
-- Check [PUBLISHING.md](PUBLISHING.md) if you want to publish the package
-- See [CONTRIBUTING.md](CONTRIBUTING.md) to contribute to the project
 
 ## Resources
 

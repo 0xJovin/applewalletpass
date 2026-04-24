@@ -288,11 +288,4 @@ export default {
 
 ## Contributing
 
-Have a great example to share? Please contribute!
-
-1. Create your example file
-2. Add documentation
-3. Test thoroughly
-4. Submit a pull request
-
-See [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines.
+Have a great example to share? We'd love to see it! Feel free to fork the repository and share your implementation.
