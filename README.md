@@ -23,7 +23,7 @@
 - [Quick Start](#-quick-start)
 - [API Reference](#-api-reference)
 - [Environment Variables](#-environment-variables)
-- [Contributing](#-contributing)
+- [Project Status](#-project-status)
 - [License](#-license)
 
 ---
@@ -148,11 +148,9 @@ export async function POST(req: NextRequest) {
 
 ---
 
-## 🤝 Contributing
+## 🛠 Project Status
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+This project is currently **stable and feature-complete**. While I use it for my own needs and will try to fix critical bugs, I am not actively looking for new features or accepting Pull Requests at this time. Feel free to fork the repository if you need to make custom modifications!
 
 ---
 
